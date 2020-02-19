@@ -48,6 +48,9 @@ class TestDemo():
                 pass
     def test_002(self):
         pass
+    
+    def test_003(self):
+        pass
 
     def test_xpath(self):
     # "//*[contains(@text,'登录') and contains(@resurse-id,'login')]"
