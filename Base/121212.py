@@ -55,6 +55,9 @@ class TestDemo():
     def test_004(self):
         pass
 
+    def test_005(self):
+        pass
+    
     def test_xpath(self):
     # "//*[contains(@text,'登录') and contains(@resurse-id,'login')]"
         self.driver.find_element_by_xpath("//*[contains(@text,'登录') and contains(@resource-id,'login_commit')]").click()
