@@ -46,6 +46,8 @@ class TestDemo():
                 print(self.driver.get_performance_data('aolei.buddha', i, 5))
             except:
                 pass
+    def test_002(self):
+        pass
 
     def test_xpath(self):
     # "//*[contains(@text,'登录') and contains(@resurse-id,'login')]"
