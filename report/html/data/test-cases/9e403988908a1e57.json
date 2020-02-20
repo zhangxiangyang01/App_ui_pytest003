@@ -1,0 +1,95 @@
+{
+  "uid" : "9e403988908a1e57",
+  "name" : "test_login[18339052997@163.com-123456-密码错误]",
+  "fullName" : "Scripts.test_login.TestLogin#test_login[18339052997@163.com-123456-密码错误]",
+  "historyId" : "cae8c486768627b8a6550faba9f095eb",
+  "time" : {
+    "start" : 1582166415997,
+    "stop" : 1582166432035,
+    "duration" : 16038
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1582166405212,
+      "stop" : 1582166415996,
+      "duration" : 10784
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1582166477445,
+      "stop" : 1582166479447,
+      "duration" : 2002
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-LSEEA95"
+  }, {
+    "name" : "thread",
+    "value" : "33832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expect_toast",
+    "value" : "'密码错误'"
+  }, {
+    "name" : "pwd",
+    "value" : "'123456'"
+  }, {
+    "name" : "username",
+    "value" : "'18339052997@163.com'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e403988908a1e57.json",
+  "parameterValues" : [ "'密码错误'", "'123456'", "'18339052997@163.com'" ]
+}

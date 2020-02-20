@@ -1,0 +1,95 @@
+{
+  "uid" : "3ef9e626c3b6782a",
+  "name" : "test_login[-22222-请输入用户名]",
+  "fullName" : "Scripts.test_login.TestLogin#test_login[-22222-请输入用户名]",
+  "historyId" : "313ae914c882c0859b3f07b071d0a74f",
+  "time" : {
+    "start" : 1582166432040,
+    "stop" : 1582166447965,
+    "duration" : 15925
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1582166405212,
+      "stop" : 1582166415996,
+      "duration" : 10784
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1582166477445,
+      "stop" : 1582166479447,
+      "duration" : 2002
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-LSEEA95"
+  }, {
+    "name" : "thread",
+    "value" : "33832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expect_toast",
+    "value" : "'请输入用户名'"
+  }, {
+    "name" : "pwd",
+    "value" : "'22222'"
+  }, {
+    "name" : "username",
+    "value" : "''"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ef9e626c3b6782a.json",
+  "parameterValues" : [ "'请输入用户名'", "'22222'", "''" ]
+}

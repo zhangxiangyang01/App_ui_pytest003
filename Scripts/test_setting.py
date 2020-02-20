@@ -1,6 +1,6 @@
-# from Page.page_in import PageIn
-#
-#
+from Page.page_in import PageIn
+
+
 # class TestSetting():
 #
 #     def setup_class(self):

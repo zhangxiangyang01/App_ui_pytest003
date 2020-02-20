@@ -1,0 +1,67 @@
+login_001:
+  username: "18339052997@163.com"
+  pwd: "123456"
+  expect_toast: "密码错误"
+login_002:
+  username: ""
+  pwd: "22222"
+  expect_toast: "请输入用户名"
+login_003:
+  username: "333333@128.com"
+  pwd: ""
+  expect_toast: "请输入密码"
+login_004:
+  username: ""
+  pwd: ""
+  expect_toast: "用户名不规范"
+
+#name: "张三"
+#age: "18"
+
+#name: "张三"
+#data:
+#  age: 18
+#  add: "bj"
+
+#{'name': '张三', 'datas': {'age': {'test': {'a': 'b', 'c': 'd'}}, 'add': 'bj'}}
+#name: '张三'
+#datas:
+#  age:
+#    test:
+#      a: "b"
+#      c: "d"
+#  add: "bj"
+
+
+#- 1
+#- 2
+#- 3
+#- 1
+#- 2
+#-
+# - a
+# - b
+# -
+#   - 3
+#   - 4
+#   - 5
+#- 9
+
+#[1, 3, {'a': 0, 'b': ['d', 'l', 'm', {'c': 0, 8: 'l'}, 't']}, 9]
+#- 1
+#- 3
+#-
+#  a: 0
+#  b:
+#    - d
+#    - l
+#    - m
+#    -
+#     c: 0
+#     8: l
+#    - t
+#- 9
+
+#[("18339052997@163.com", "123456"), ("2222222@163.com","222222"), ("333333@163.com","33333")]
+
+

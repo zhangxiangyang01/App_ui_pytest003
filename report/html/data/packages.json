@@ -1,0 +1,61 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Scripts.test_login",
+    "children" : [ {
+      "name" : "test_login[18339052997@163.com-123456-密码错误]",
+      "uid" : "9e403988908a1e57",
+      "parentUid" : "fa1add6254a391b29acd73466e9b31e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582166415997,
+        "stop" : 1582166432035,
+        "duration" : 16038
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'密码错误'", "'123456'", "'18339052997@163.com'" ]
+    }, {
+      "name" : "test_login[-22222-请输入用户名]",
+      "uid" : "3ef9e626c3b6782a",
+      "parentUid" : "fa1add6254a391b29acd73466e9b31e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582166432040,
+        "stop" : 1582166447965,
+        "duration" : 15925
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'请输入用户名'", "'22222'", "''" ]
+    }, {
+      "name" : "test_login[333333@128.com--请输入密码]",
+      "uid" : "700838aa2ba64f53",
+      "parentUid" : "fa1add6254a391b29acd73466e9b31e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582166447968,
+        "stop" : 1582166462871,
+        "duration" : 14903
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'请输入密码'", "''", "'333333@128.com'" ]
+    }, {
+      "name" : "test_login[--用户名不规范]",
+      "uid" : "91e985c8a187dc5b",
+      "parentUid" : "fa1add6254a391b29acd73466e9b31e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582166462875,
+        "stop" : 1582166477443,
+        "duration" : 14568
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'用户名不规范'", "''", "''" ]
+    } ],
+    "uid" : "Scripts.test_login"
+  } ]
+}

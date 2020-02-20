@@ -1,0 +1,41 @@
+[ {
+  "uid" : "9e403988908a1e57",
+  "name" : "test_login[18339052997@163.com-123456-密码错误]",
+  "time" : {
+    "start" : 1582166415997,
+    "stop" : 1582166432035,
+    "duration" : 16038
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91e985c8a187dc5b",
+  "name" : "test_login[--用户名不规范]",
+  "time" : {
+    "start" : 1582166462875,
+    "stop" : 1582166477443,
+    "duration" : 14568
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ef9e626c3b6782a",
+  "name" : "test_login[-22222-请输入用户名]",
+  "time" : {
+    "start" : 1582166432040,
+    "stop" : 1582166447965,
+    "duration" : 15925
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "700838aa2ba64f53",
+  "name" : "test_login[333333@128.com--请输入密码]",
+  "time" : {
+    "start" : 1582166447968,
+    "stop" : 1582166462871,
+    "duration" : 14903
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
